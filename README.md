@@ -6,3 +6,5 @@ List files in directory recursively using Python.
 Clone this project and look at the source files:
 - `main.py`
 - `lister.py`
+
+*Initialized by totrrescartel workspace automation.*
